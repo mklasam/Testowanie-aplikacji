@@ -1,0 +1,11 @@
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\TicTacToeLibTests.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\TicTacToeLibTests.pdb
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\TicTacToeLib.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\TicTacToeLib.pdb
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\obj\Debug\TicTacToeLibTests.csproj.AssemblyReference.cache
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\obj\Debug\TicTacToeLibTests.csproj.CoreCompileInputs.cache
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\obj\Debug\TicTacToeLibTests.csproj.CopyComplete
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\obj\Debug\TicTacToeLibTests.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLibTests\obj\Debug\TicTacToeLibTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.AssemblyReference.cache
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.CoreCompileInputs.cache
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+C:\Users\klasa\Downloads\ut_tic_tac_toe\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
